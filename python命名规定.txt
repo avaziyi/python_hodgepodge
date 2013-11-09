@@ -1,0 +1,17 @@
+函数命名习惯与变量类似：
+variable_name
+_code
+CODE
+_1234
+a1234
+someThing
+SomeThing
+
+类别 (class)：采用大写驼峰型 (upper camel case) ，或用底线连接各个大写字母，例如
+ClassName
+Class_Name
+
+类别中的方法 (mehod) 与属性 (attribute) ：
+则较常采用小驼峰型 (lower camel case)，或用底线连接每个小写单词，例如
+method_name
+methodName
