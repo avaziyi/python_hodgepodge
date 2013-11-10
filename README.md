@@ -8,3 +8,7 @@ download baidu baike to local disk for future use
 douban_pic:
 
 get the film's pictures from douban
+
+plot:
+
+basic plot-method in python
