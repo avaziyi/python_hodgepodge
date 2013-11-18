@@ -12,3 +12,7 @@ get the film's pictures from douban
 plot:
 
 basic plot-method in python
+
+chinese2pinyin：
+
+change chinese into pinyin (from excel)
