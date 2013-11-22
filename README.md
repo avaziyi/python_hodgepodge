@@ -16,3 +16,7 @@ basic plot-method in python
 chinese2pinyin：
 
 change chinese into pinyin (from excel)
+
+color:
+
+different color test using termcolor
