@@ -20,3 +20,7 @@ change chinese into pinyin (from excel)
 color:
 
 different color test using termcolor
+
+cv_test:
+
+simple test based on opencv
