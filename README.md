@@ -24,3 +24,7 @@ different color test using termcolor
 cv_test:
 
 simple test based on opencv
+
+pygame_draw：
+
+simple test using pygame to draw easy pattern
